@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1 align=center>抽卡</h1>
+<h1 align=center>抽卡改动</h1>
 <form action="gailv" method="post">
 <P align="center"><input type="submit" name="get" value="抽一次">
 <input type="submit" name="clear" value="清除"></p>  
